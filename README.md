@@ -1,5 +1,3 @@
 # LINQExercises
-Exercises with LINQ using C# :)
-Let' explore this amazing library (Viva FP !!!)
 
-(https://thgbrbdev.wordpress.com/category/linq/)
+Exercises with LINQ using C# related to blog https://thgbrbdev.wordpress.com/category/linq/
