@@ -15,7 +15,7 @@ namespace Functions
             numbers
                 .Select(str2int) // For each list element apply func str2int
                 .ToList() // Create a new list
-                .ForEach(x => WriteLine($@"{x.GetType().Name} : {x.ToString()}")); // For each element print it
+                .ForEach(Print); // For each element print it
         }
     }
 
@@ -35,5 +35,11 @@ namespace Functions
 
                 return i;
             };
+        
+        /// <summary>
+        /// Format and print an string
+        /// </summary>
+        public static Action<int> Print =
+            (s) => WriteLine($@"{s.GetType().Name} : {s.ToString()}");   
     }
 }
