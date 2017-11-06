@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{DAF9ABF6-B4B9-4FDF-AB99-619ED3E0D363}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Functions/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqAndLet/Program.cs">
     <Files>
-      <File FileName="Functions/Program.cs" Line="39" Column="2" />
+      <File FileName="Functions/Program.cs" Line="45" Column="2" />
+      <File FileName="LinqAndLet/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
